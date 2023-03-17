@@ -2,14 +2,9 @@
 const images = [
     { url: 'https://picsum.photos/id/12/200/300' },
     { url: 'https://picsum.photos/id/11/200/300' },
-    { url: 'https://picsum.photos/id/10/200/300' },
-    { url: 'https://picsum.photos/id/14/200/300' },
-    { url: 'https://picsum.photos/id/13/200/300' },
-    { url: 'https://picsum.photos/id/16/200/300' },
-    { url: 'https://picsum.photos/id/17/200/300' },
-    { url: 'https://picsum.photos/id/18/200/300' },
-    { url: 'https://picsum.photos/id/19/200/300' },
-    { url: 'https://picsum.photos/id/20/200/300' },
+    { url: 'https://picsum.photos/id/10/200/300' }
+   
+    
   ];
   
   function downloadImages() {
